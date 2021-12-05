@@ -1,0 +1,6 @@
+github.com/bits-and-blooms/bitset v1.2.1 h1:M+/hrU9xlMp7t4TyTDQW97d3tRPVuKFC6zBEK16QnXY=
+github.com/bits-and-blooms/bitset v1.2.1/go.mod h1:gIdJ4wp64HaoK2YrL1Q5/N7Y16edYb8uY+O0FJTyyDA=
+github.com/garyburd/redigo v1.6.3 h1:HCeeRluvAgMusMomi1+6Y5dmFOdYV/JzoRrrbFlkGIc=
+github.com/garyburd/redigo v1.6.3/go.mod h1:rTb6epsqigu3kYKBnaF028A7Tf/Aw5s0cqA47doKKqw=
+github.com/roaldi/bloom v0.0.0-20211201230107-8864b8811497 h1:Q9UhzePzU4VwcqmiW4zJNKIwABjH5n6917iyA9AfZAU=
+github.com/roaldi/bloom v0.0.0-20211201230107-8864b8811497/go.mod h1:TGBYGDwnRBCXz6obhIi1sIQPn6XcO4F5H1aZP9HG9Y4=
